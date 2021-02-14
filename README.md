@@ -1,5 +1,9 @@
 # MachineLearning
 
-## This repo. deals with basic algorithm use in machine learning
+## This repository deals with machine learning algorithms and use of it in different conditions.
+
+**Till now I have uploaded some projects on <code>Computer Vision</code> and <code>Linear Regression</code>**
+
+*More <code>Projects</code> are on the way,stay tuned!!*
 
 ***You can contribute in it as well.... therefore do contribute***
