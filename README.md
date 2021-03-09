@@ -2,7 +2,7 @@
 
 ## This repository deals with machine learning algorithms and use of it in different conditions.
 
-**Till now I have uploaded some projects on <code>Computer Vision</code> and <code>Linear Regression</code>**
+**Till now I have uploaded some projects on <code>Computer Vision</code> , <code>Linear Regression</code> , <code>Logistic Regression</code>**
 
 *More <code>Projects</code> are on the way,stay tuned!!*
 
